@@ -13,6 +13,7 @@ public class MovieFinalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MovieFinalApplication.class, args);
 		System.out.println("it is done");
+		System.out.println("Testing");
 	}
 
 }
